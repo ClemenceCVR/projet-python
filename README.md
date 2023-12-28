@@ -18,3 +18,5 @@ Dans un premier temps, nous avons commencé par nettoyer la base de données et 
 Les fichiers sont :
 - Projet_Python.ipynb, qui contient tout notre code
 - departements-version-simplifiee.geojson, permettant de tracer les départements sur une carte de France
+- stations_les_plus_proches.txt, qui permet d'avoir accès au résultat d'un code qui met 1h20 à tourner
+- df_paris_espaces_verts_les_plus_proches.txt, qui permet d'avoir accès au résultat d'un code qui met 16 min à tourner
