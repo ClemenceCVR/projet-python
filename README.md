@@ -12,3 +12,9 @@ La base de données principale provient de data.gouv.fr et comprend les demandes
 ### Structure du projet
 
 Dans un premier temps, nous avons commencé par nettoyer la base de données et réaliser des statistiques descriptives couvrant la France et l'Île-de-France. Par la suite, nous nous sommes intéressées à une analyse approfondie de la corrélation entre les variables, qu'elles soient qualitatives ou quantitatives, et la valeur foncière. Ensuite, nous avons réduit notre analyse à Paris, où nous avons introduit de nouvelles variables absentes dans la base de données initiale. Finalement, nous avons procédé à la modélisation des données parisiennes, effectué le traitement du modèle, appliqué la méthode des moindres carrés, puis réalisé une autre régression afin d'affiner encore plus notre compréhension des dynamiques du marché immobilier dans la capitale.
+
+### Fichiers
+
+Les fichiers sont :
+- Projet_Python.ipynb, qui contient tout notre code
+- departements-version-simplifiee.geojson, permettant de tracer les départements sur une carte de France
