@@ -10,3 +10,7 @@ Voici le Github réalisé dans le cadre de notre projet Python. Nous nous sommes
 La base de données principale provient de data.gouv.fr et comprend les demandes de valeurs foncières géolocalisées. Cette base de données contient X enregistrements qui ont été préalablement nettoyés et préparés pour l'analyse. En plus des données foncières, nous avons utilisé des bases de données complémentaires sur les gares parisiennes et les espaces verts à Paris, également disponibles sur data.gouv.fr.
 
 ### Structure du projet
+## Structure du Projet
+
+
+Dans un premier temps, nous avons commencé par nettoyer la base de données et réaliser des statistiques descriptives couvrant la France et l'Île-de-France. Par la suite, nous nous sommes intéressées à une analyse approfondie de la corrélation entre les variables, qu'elles soient qualitatives ou quantitatives, et la valeur foncière. Ensuite, nous avons réduit notre analyse à Paris, où nous avons introduit de nouvelles variables absentes dans la base de données initiale. Finalement, nous avons procédé à la modélisation des données parisiennes, effectué le traitement du modèle, appliqué la méthode des moindres carrés, puis réalisé une autre régression afin d'affiner encore plus notre compréhension des dynamiques du marché immobilier dans la capitale.
