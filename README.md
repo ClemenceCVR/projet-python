@@ -7,7 +7,7 @@ Voici le Github réalisé dans le cadre de notre projet Python. Nous nous sommes
 
 ### Sources des données
 
-La base de données principale provient de data.gouv.fr et comprend les demandes de valeurs foncières géolocalisées. Cette base de données contient X enregistrements qui ont été préalablement nettoyés et préparés pour l'analyse. En plus des données foncières, nous avons utilisé des bases de données complémentaires sur les gares parisiennes et les espaces verts à Paris, également disponibles sur data.gouv.fr.
+La base de données principale provient de data.gouv.fr et comprend les demandes de valeurs foncières géolocalisées. Cette base de données contient plus de 4,6 millions d'enregistrements qui ont été nettoyés et préparés pour l'analyse. En plus des données foncières, nous avons utilisé des bases de données complémentaires sur les gares parisiennes et les espaces verts à Paris, également disponibles sur data.gouv.fr.
 
 ### Structure du projet
 
